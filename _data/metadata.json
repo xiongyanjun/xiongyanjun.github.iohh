@@ -1,0 +1,23 @@
+{
+  "title": "Cute Blog 🥳",
+  "url": "https://cuteblog.pages.dev/",
+  "cover": "https://media.istockphoto.com/vectors/people-searching-for-creative-solutions-teamwork-business-concept-vector-id1306949457?k=20&m=1306949457&s=612x612&w=0&h=JmOIEsNPhtdWRPMHsQyY1B-7LrYHk45_na5dPi8hHsk=",
+  "google": "WH5yK5pEky5qND2FOW3_hvm3VlPkjRtV731y81BcsTc",
+  "language": "en",
+  "description": "New Free template download gratis cuteblog for eleventy 11ty",
+  "feed": {
+    "subtitle": "New Free template download gratis cuteblog for eleventy 11ty",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://cuteblog.pages.dev/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://cuteblog.pages.dev/feed/feed.json"
+  },
+  "author": {
+    "name": "axcora",
+    "email": "axcora@gmail.com",
+    "url": "https://website.axcora.com"
+  }
+}

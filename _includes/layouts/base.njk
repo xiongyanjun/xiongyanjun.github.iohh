@@ -1,0 +1,8 @@
+{% include "layouts/widget/head.njk" %}
+{% include "layouts/widget/nav.njk" %}
+    <article{% if templateClass %} class="row {{ templateClass }}"{% endif %}>
+    {{ content | safe }}
+    </article>
+</main>
+{% include "layouts/widget/footer.njk" %}
+
